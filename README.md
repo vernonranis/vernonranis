@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on my portfolio/blog site
 - 🌱 I’m currently learning frontend development.
-- 🔍 The niche I'd like to focus is fintech, blockchain and defi
+<!-- - 🔍 The niche I'd like to focus is fintech, blockchain and defi -->
 <!-- - 👯 I’m looking to collaborate on
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
