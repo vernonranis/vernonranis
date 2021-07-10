@@ -1,6 +1,6 @@
 # Hi there I'm Vernon 👋
 
-### I'm interested in full stack development, would like to focus on javascript and python language.
+### I'm interested in full stack development.
 
 <hr>
 
@@ -19,6 +19,7 @@
 ## Languages and tools
 <img src="./icons/html-5.svg" width="50" height="50">
 <img src="./icons/css.svg" width="50" height="50">
+<img src="./icons/javascript.svg" width="50" height="50">
 
 
 <hr>
