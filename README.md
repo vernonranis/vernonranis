@@ -10,22 +10,20 @@
 <!-- - 👯 I’m looking to collaborate on
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
-<!-- - 📫 How to reach me: ... -->
-<!-- - 😄 Pronouns: ... -->
-<!-- - ⚡ Fun fact: ... -->
+  <!-- - 📫 How to reach me: ... -->
+  <!-- - 😄 Pronouns: ... -->
+  <!-- - ⚡ Fun fact: ... -->
 
 <hr>
 
 ## Languages and tools
-<img src="./icons/html-5.svg" width="50" height="50">
-<img src="./icons/css.svg" width="50" height="50">
-<img src="./icons/javascript.svg" width="50" height="50">
 
+<img src="./icons/html-5.svg" width="50" height="50"><img src="./icons/css.svg" width="50" height="50"><img src="./icons/javascript.svg" width="50" height="50">
 
 <hr>
 
-
 ## Connect with me
+
 [<img src="./icons/facebook.svg" width="50" height="50">][facebook]
 [<img src="./icons/twitter.svg" width="50" height="50">][twitter]
 [<img src="./icons/linkedin.svg" width="50" height="50">][linkedin]
