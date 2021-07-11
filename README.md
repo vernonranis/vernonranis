@@ -1,6 +1,6 @@
 # Hi there I'm Vernon 👋
 
-### I'm interested in full stack development.
+### I'm interested in web development.
 
 <hr>
 
